@@ -13,7 +13,8 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>jspproject</name>
     <description>Demo project for Spring Boot</description>
-    <!--打包格式：SpringBoot使用JSP时需打包为war类型 -->
+
+    <!--注意：打包格式：SpringBoot使用JSP时需打包为war类型 -->
     <packaging>war</packaging>
 
     <properties>
